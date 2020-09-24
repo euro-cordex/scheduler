@@ -1,22 +1,5 @@
 #! /usr/bin/python
 # coding: utf-8
-#
-# This file is part of PyRemo. PyRemo is a toolbox to facilitate
-# treatment and plotting of REMO or other rotated and non-rotated
-# data.
-#
-# Copyright (C) 2010-2014 REMO Group
-# See COPYING file for copying and redistribution conditions.
-#
-# This program is free software; you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation; version 2 of the License.
-#
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-
 """Scheduler
 
 Classes and methods in :mod:`Scheduler` should create jobscripts
