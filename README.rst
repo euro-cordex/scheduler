@@ -9,8 +9,8 @@ scheduler
 .. image:: https://img.shields.io/travis/larsbuntemeyer/scheduler.svg
         :target: https://travis-ci.com/larsbuntemeyer/scheduler
 
-.. image:: https://readthedocs.org/projects/hpc_scheduler/badge/?version=latest
-        :target: https://scheduler.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/hpc-scheduler/badge/?version=latest
+        :target: https://hpc-scheduler.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 
