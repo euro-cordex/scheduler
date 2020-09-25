@@ -20,7 +20,7 @@ Python code to interact with an HPC scheduler.
 
 
 * Free software: MIT license
-* Documentation: https://scheduler.readthedocs.io.
+* Documentation: https://hpc-scheduler.readthedocs.io.
 
 
 Features
