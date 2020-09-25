@@ -1,4 +1,3 @@
-
 from hpc_scheduler.scheduler import Scheduler
 
 # create a scheduler from a jobid logfile
@@ -11,4 +10,3 @@ for jobname, acct in accounting.items():
 
 # make a lob of all jobs and status
 scheduler.log_jobs_acct()
-

@@ -1,5 +1,3 @@
-
-
 import os
 
 from hpc_scheduler.scheduler import Scheduler
@@ -53,4 +51,3 @@ for i in range(1,nJobs+1):
 
 # now we can submit all jobs
 scheduler.submit()
-

@@ -5,10 +5,12 @@ Examples
 Create and submit jobs
 ----------------------
 
-.. include:: ../examples/submit.py
+.. literalinclude:: ../examples/submit.py
+   :language: python
 
 
 Check jobs
 ----------
 
-.. include:: ../examples/check.py
+.. literalinclude:: ../examples/check.py
+   :language: python
