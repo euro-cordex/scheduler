@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=.
 set BUILDDIR=_build
-set SPHINXPROJ=scheduler
+set SPHINXPROJ=hpc_scheduler
 
 if "%1" == "" goto help
 
