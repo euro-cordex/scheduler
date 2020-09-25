@@ -1,5 +1,5 @@
-Welcome to scheduler's documentation!
-======================================
+Welcome to hpc_scheduler's documentation!
+=========================================
 
 .. toctree::
    :maxdepth: 2
@@ -8,6 +8,7 @@ Welcome to scheduler's documentation!
    readme
    installation
    usage
+   examples
    modules
    contributing
    authors

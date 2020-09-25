@@ -1,6 +1,6 @@
-=========
-scheduler
-=========
+=============
+hpc_scheduler
+=============
 
 
 .. image:: https://img.shields.io/pypi/v/scheduler.svg
@@ -26,7 +26,8 @@ Python code to interact with an HPC scheduler.
 Features
 --------
 
-* TODO
+* create jobscripts from templates with python (only SLURM right now)
+* interact with the job scheduler (submit and check jobs, check accounting, group jobs)
 
 Credits
 -------
