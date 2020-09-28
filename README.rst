@@ -3,8 +3,8 @@ hpc_scheduler
 =============
 
 
-.. image:: https://img.shields.io/pypi/v/scheduler.svg
-        :target: https://pypi.python.org/pypi/scheduler
+.. image:: https://img.shields.io/pypi/v/hpc_scheduler.svg
+        :target: https://pypi.python.org/pypi/hpc_scheduler
 
 .. image:: https://img.shields.io/travis/larsbuntemeyer/scheduler.svg
         :target: https://travis-ci.com/larsbuntemeyer/scheduler
