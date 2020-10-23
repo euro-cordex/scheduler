@@ -1,5 +1,5 @@
 =============
-hpc_scheduler
+hpc-scheduler
 =============
 
 
