@@ -5,7 +5,7 @@
 import pytest
 
 
-from scheduler import scheduler
+from hpc_scheduler import scheduler
 
 
 @pytest.fixture
