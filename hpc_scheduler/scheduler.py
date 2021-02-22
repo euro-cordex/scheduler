@@ -16,7 +16,7 @@ import datetime
 import re
 import sys
 
-logging.basicConfig(level=logging.INFO)
+#logging.basicConfig(level=logging.INFO)
 
 # slurm job template
 SLURM_TEMPLATE = \
