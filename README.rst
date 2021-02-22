@@ -6,8 +6,8 @@ hpc-scheduler
 .. image:: https://img.shields.io/pypi/v/hpc_scheduler.svg
         :target: https://pypi.python.org/pypi/hpc_scheduler
 
-.. image:: https://img.shields.io/travis/larsbuntemeyer/scheduler.svg
-        :target: https://travis-ci.com/larsbuntemeyer/scheduler
+.. image:: https://travis-ci.com/euro-cordex/hpc-scheduler.svg?branch=master
+    :target: https://travis-ci.com/euro-cordex/hpc-scheduler
 
 .. image:: https://readthedocs.org/projects/hpc-scheduler/badge/?version=latest
         :target: https://hpc-scheduler.readthedocs.io/en/latest/?badge=latest
