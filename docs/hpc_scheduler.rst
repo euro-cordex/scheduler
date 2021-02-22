@@ -1,22 +1,22 @@
-hpc_scheduler package
-=====================
+hpc\_scheduler package
+======================
 
 Submodules
 ----------
 
-hpc_scheduler.scheduler module
-------------------------------
+hpc\_scheduler.scheduler module
+-------------------------------
 
 .. automodule:: hpc_scheduler.scheduler
-    :members:
-    :undoc-members:
-    :show-inheritance:
+   :members:
+   :undoc-members:
+   :show-inheritance:
 
 
 Module contents
 ---------------
 
 .. automodule:: hpc_scheduler
-    :members:
-    :undoc-members:
-    :show-inheritance:
+   :members:
+   :undoc-members:
+   :show-inheritance:
